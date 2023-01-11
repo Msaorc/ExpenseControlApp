@@ -1,0 +1,14 @@
+.sidenav {
+    background-color: rgb(52, 27, 95);
+    width: 200px;
+}
+
+.sidenav a {
+    color: #fff;
+    display: flex;
+    align-items: center;
+}
+
+.sidenav i {
+    padding-right: 10px;
+}
